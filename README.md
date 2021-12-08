@@ -8,6 +8,6 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulakshanageeth&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulakshanageeth&theme=" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api//?username=sulakshanageeth&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api//?username=sulakshanageeth&theme=" />
