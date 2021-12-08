@@ -6,6 +6,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sulakshana-geeth-b72585225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sulakshana-geeth-b72585225/" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sulakshanageeth&show_icons=true&locale=en&layout=compact" alt="sulakshanageeth" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sulakshanageeth&show_icons=true&hide_border=true&locale=en&layout=compact" alt="sulakshanageeth" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sulakshanageeth&show_icons=true&locale=en" alt="sulakshanageeth" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sulakshanageeth&show_icons=true&hide_border=true&locale=en" alt="sulakshanageeth" /></p>
