@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I’m Sulakshana Geeth, a undergraduate at SLIIT.</h3>
+<h3 align="center">I’m Sulakshana Geeth, a Software Engineering undergraduate at SLIIT.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
